@@ -1,6 +1,5 @@
-
-Android-based Code Offload Converter: A Demo Example
-====================================================================
+ A Demo Example
+================
 
 This demo example shows how the [converter](https://github.com/huberflores/CodeOffloadingAnnotations) transforms the methods of an Android application into offlodable components.
 
